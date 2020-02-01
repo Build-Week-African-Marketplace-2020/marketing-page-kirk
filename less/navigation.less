@@ -1,7 +1,13 @@
 // Navigation Styles here
-.first{
-	display:flex;
-	justify-content:space-between;
+.nav-section{
+	background:@sun;
+	.flex-sb;
+
+	.title-nav{
+	   color:@primary-header;
+	   font-family: 'Ruge Boogie', cursive;
+	   margin-top:8%;
+	}
 
     @media (max-width:500px){
 	    width:100%;
@@ -9,6 +15,7 @@
 	    flex-direction:column;
 
 	    .fun-text{
+		    margin-top:8%;
 		    text-align:center;
 	    }
     }
@@ -21,10 +28,12 @@ nav {
 	margin-left: 5px;
 	padding: 20px;
 	font-size:1.75rem;
+
 	a{
 		margin: 8px;
+		font-size: 2rem;
 		justify-content:space-around;
 		text-decoration:none;
-		color:black;
+		color: @primary-header;
 	}
 }
