@@ -1,9 +1,9 @@
 # marketing-page-kirk
 
-******Main Objective
+*****Main Objective**
 	my main fucus is to develope a responsive and stable marketing page that will inform potential customers about how amazing the abilty to crosstrade in Africa makes a economic difference.
 
-******Technical Info
+*****Technical Info**
 
 I chose to make this project using bootstrap:
 
