@@ -13,7 +13,7 @@ This project is started from scracth with no imported themes. It is using LESS a
 ~~I am using bootstrap to make a repospive and fast layout.~~
 
 ### Task
-- [x] Frame the website to look professional.
+- [x] ~~Frame the website to look professional.~~
 
 - [ ] Make the website responsive.
 

@@ -151,7 +151,6 @@ html {
 }
 html,
 body {
-  padding: 0rem 2rem 2rem 2rem   ;
   background: tan;
   font-family: 'Roboto', sans-serif;
 }
@@ -250,7 +249,12 @@ nav a {
 header {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   height: 40rem;
+  margin-bottom: 0;
+  text-align: center;
+  align-items: flex-start;
+  color: #FFFFFF;
   background-image: url(/img/nature.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -264,7 +268,13 @@ header {
   }
 }
 .home .first-section {
+  display: flex;
+  flex-direction: column;
   width: max-width;
+}
+.home .first-section .african-intro {
+  margin: 2%;
+  width: 35%;
 }
 .home .second-section {
   background: #FFFFFF;
