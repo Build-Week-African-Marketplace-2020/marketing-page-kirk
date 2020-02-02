@@ -10,13 +10,14 @@ This project is started from scracth with no imported themes. It is using LESS a
 ~~I am using bootstrap to make a repospive and fast layout.~~
 
 ## Task
--[x] Frame the website to look professional.
+- [x] Frame the website to look professional.
 
--[] Make the website responsive.
+- [ ] Make the website responsive.
 
--[] Deploy the Website to a web host.
+- [ ] Deploy the Website to a web host.
 
--[] Make the website Beautiful!
+- [ ] Make the website Beautiful!
+
 ### Things I learned along the way:
 *  I learned how to install bootstrap locally and reference the link.
 * learning how make the site responsive by using bootstrap ``<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12"><div>``
