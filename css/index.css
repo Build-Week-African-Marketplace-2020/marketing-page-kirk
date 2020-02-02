@@ -193,14 +193,17 @@ img {
   }
 }
 .nav-section {
-  background: #ffffb3;
+  background: #ffecb3;
   display: flex;
   justify-content: space-between;
 }
 .nav-section .title-nav {
   color: #cc7000;
   font-family: 'Ruge Boogie', cursive;
-  margin-top: 8%;
+  margin-top: 10%;
+}
+.nav-section .Africa {
+  width: 8vh;
 }
 @media (max-width: 500px) {
   .nav-section {
@@ -216,13 +219,15 @@ img {
 nav {
   display: flex;
   justify-content: flex-end;
+  font-family: 'Ruge Boogie', cursive;
   margin-left: 5px;
   padding: 20px;
   font-size: 1.75rem;
 }
 nav a {
   margin: 8px;
-  font-size: 2rem;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 3rem;
   justify-content: space-around;
   text-decoration: none;
   color: #cc7000;
