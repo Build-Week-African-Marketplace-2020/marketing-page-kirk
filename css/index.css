@@ -267,9 +267,6 @@ header {
     flex-direction: column;
   }
 }
-.home .small-container {
-  display: flex;
-}
 .home .first-section {
   margin: 0;
   display: flex;

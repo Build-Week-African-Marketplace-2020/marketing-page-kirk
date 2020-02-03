@@ -15,9 +15,11 @@ This project is started from scracth with no imported themes. It is using LESS a
 ### Task
 - [x] ~~Frame the website to look professional.~~
 
+- [ ] Add more pages to the site.
+
 - [ ] Make the website responsive.
 
-- [ ] Deploy the Website to a web host.
+- [x]~~ Deploy the Website to a web host.~~
 
 - [ ] Make the website Beautiful!
 
