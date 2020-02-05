@@ -17,11 +17,11 @@ This project is started from scracth with no imported themes. It is using LESS a
 
 - [ ] Add more pages to the site.
 
-- [ ] Make the website responsive.
+- [x] Make the website responsive.
 
-- [ ] Refactor code to use more mixins and variables.
+- [x] Refactor code to use more mixins and variables.
 
-- [x]~~ Deploy the Website to a web host.~~
+- [x] Deploy the Website to a web host.~~
 
 
 ### Things I learned along the way:
