@@ -19,9 +19,10 @@ This project is started from scracth with no imported themes. It is using LESS a
 
 - [ ] Make the website responsive.
 
+- [ ] Refactor code to use more mixins and variables.
+
 - [x]~~ Deploy the Website to a web host.~~
 
-- [ ] Make the website Beautiful!
 
 ### Things I learned along the way:
 
