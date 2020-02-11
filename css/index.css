@@ -214,9 +214,13 @@ img {
     display: flex;
     flex-direction: column;
   }
+  .nav-section .Africa {
+    display: none;
+  }
   .nav-section .nature-pic {
     margin-top: 8%;
     text-align: center;
+    overflow: hidden;
   }
 }
 nav {
@@ -234,6 +238,17 @@ nav a {
   justify-content: space-around;
   text-decoration: none;
   color: #cc7000;
+}
+@media (max-width: 500px) {
+  nav a {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media (max-width: 500px) {
+  .header .african-intro {
+    display: none;
+  }
 }
 .footer {
   width: 100%;
@@ -265,6 +280,10 @@ header {
     width: 100%;
     display: flex;
     flex-direction: column;
+    overflow: hidden;
+  }
+  header .african-intro {
+    display: none;
   }
 }
 .home .first-section {
@@ -294,6 +313,7 @@ header {
     width: 220%;
     display: flex;
     flex-direction: column;
+    overflow: hidden;
   }
   .home .content-section .text-content {
     width: 100%;

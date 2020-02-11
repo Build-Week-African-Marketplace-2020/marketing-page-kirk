@@ -18,14 +18,19 @@
 		height:5vh;
 	 }
 
-    @media (max-width:500px){
+    @media @mobile{
 	    width:100%;
 	    display:flex;
-	    flex-direction:column;
+		flex-direction:column;
+		
+		.Africa{
+			display:none;
+		 }
 
 	    .nature-pic{
 		    margin-top:8%;
 		    text-align:center;
+		    overflow:hidden;
 	    }
     }
 }
@@ -46,5 +51,22 @@ nav {
 		justify-content:space-around;
 		text-decoration:none;
 		color: @primary-header;
+		@media @mobile{
+			display:flex;
+			flex-direction:column;
+		}
+
+	}
+}
+
+.header{
+
+	@media @mobile{
+
+		.african-intro{
+			
+		display:none;
+	}
+
 	}
 }
