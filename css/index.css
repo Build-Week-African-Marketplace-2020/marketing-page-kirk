@@ -222,6 +222,13 @@ img {
     text-align: center;
     overflow: hidden;
   }
+  .nav-section .title-nav {
+    display: flex;
+    justify-content: center;
+    color: #cc7000;
+    font-family: 'Ruge Boogie', cursive;
+    margin-top: 10%;
+  }
 }
 nav {
   display: flex;
